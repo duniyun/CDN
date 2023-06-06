@@ -1,0 +1,230 @@
+[
+  {
+    "id": 1,
+    "name": "道具",
+    "icon": "UIRole_0",
+    "panelId": 1
+  },
+  {
+    "id": 2,
+    "name": "乘降",
+    "icon": "UIRole_0",
+    "panelId": 2
+  },
+  {
+    "id": 3,
+    "name": "技能",
+    "icon": "UIRole_0",
+    "panelId": 3
+  },
+  {
+    "id": 4,
+    "name": "装备",
+    "icon": "UIRole_0",
+    "panelId": 4
+  },
+  {
+    "id": 5,
+    "name": "状态",
+    "icon": "UIRole_0",
+    "panelId": 5
+  },
+  {
+    "id": 6,
+    "name": "炮弹",
+    "icon": "UIRole_0",
+    "panelId": 6
+  },
+  {
+    "id": 7,
+    "name": "任务",
+    "icon": "UIRole_0",
+    "panelId": 7
+  },
+  {
+    "id": 8,
+    "name": "设置",
+    "icon": "UIRole_0",
+    "panelId": 8
+  },
+  {
+    "id": 9,
+    "name": "人类消耗",
+    "icon": "UIRole_0",
+    "panelId": 9
+  },
+  {
+    "id": 10,
+    "name": "人类工具",
+    "icon": "UIRole_0",
+    "panelId": 10
+  },
+  {
+    "id": 11,
+    "name": "人类装备",
+    "icon": "UIRole_0",
+    "panelId": 11
+  },
+  {
+    "id": 12,
+    "name": "战车消耗",
+    "icon": "UIRole_0",
+    "panelId": 12
+  },
+  {
+    "id": 13,
+    "name": "战车工具",
+    "icon": "UIRole_0",
+    "panelId": 13
+  },
+  {
+    "id": 14,
+    "name": "战车装备",
+    "icon": "UIRole_0",
+    "panelId": 14
+  },
+  {
+    "id": 15,
+    "name": "全体上车",
+    "icon": "UIRole_0",
+    "panelId": 15
+  },
+  {
+    "id": 16,
+    "name": "全体下车",
+    "icon": "UIRole_0",
+    "panelId": 16
+  },
+  {
+    "id": 17,
+    "name": "玩家1",
+    "icon": "UIRole_0",
+    "panelId": 17
+  },
+  {
+    "id": 18,
+    "name": "玩家2",
+    "icon": "UIRole_0",
+    "panelId": 18
+  },
+  {
+    "id": 19,
+    "name": "玩家3",
+    "icon": "UIRole_0",
+    "panelId": 19
+  },
+  {
+    "id": 20,
+    "name": "牵引",
+    "icon": "UIRole_0",
+    "panelId": 20
+  },
+  {
+    "id": 21,
+    "name": "主炮",
+    "icon": "UIRole_0",
+    "panelId": 21
+  },
+  {
+    "id": 22,
+    "name": "副炮",
+    "icon": "UIRole_0",
+    "panelId": 22
+  },
+  {
+    "id": 23,
+    "name": "S-E",
+    "icon": "UIRole_0",
+    "panelId": 23
+  },
+  {
+    "id": 24,
+    "name": "道具",
+    "icon": "UIRole_0",
+    "panelId": 24
+  },
+  {
+    "id": 25,
+    "name": "乘降",
+    "icon": "UIRole_0",
+    "panelId": 25
+  },
+  {
+    "id": 26,
+    "name": "炮弹",
+    "icon": "UIRole_0",
+    "panelId": 26
+  },
+  {
+    "id": 27,
+    "name": "防御",
+    "icon": "UIRole_0",
+    "panelId": 27
+  },
+  {
+    "id": 28,
+    "name": "撤退",
+    "icon": "UIRole_0",
+    "panelId": 28
+  },
+  {
+    "id": 29,
+    "name": "装甲",
+    "icon": "UIRole_0",
+    "panelId": 29
+  },
+  {
+    "id": 30,
+    "name": "底盘",
+    "icon": "UIRole_0",
+    "panelId": 30
+  },
+  {
+    "id": 31,
+    "name": "攻击",
+    "icon": "UIRole_0",
+    "panelId": 31
+  },
+  {
+    "id": 32,
+    "name": "技能",
+    "icon": "UIRole_0",
+    "panelId": 32
+  },
+  {
+    "id": 33,
+    "name": "防御",
+    "icon": "UIRole_0",
+    "panelId": 33
+  },
+  {
+    "id": 34,
+    "name": "道具",
+    "icon": "UIRole_0",
+    "panelId": 34
+  },
+  {
+    "id": 35,
+    "name": "乘降",
+    "icon": "UIRole_0",
+    "panelId": 35
+  },
+  {
+    "id": 36,
+    "name": "撤退",
+    "icon": "UIRole_0",
+    "panelId": 36
+  },
+  {
+    "id": 37,
+    "name": "HP",
+    "icon": "UIRole_0",
+    "panelId": 37
+  },
+  {
+    "id": 38,
+    "name": "体力",
+    "icon": "UIRole_0",
+    "panelId": 38
+  }
+]
