@@ -1,0 +1,93 @@
+[
+  {
+    "id": 0,
+    "name": "大世界",
+    "prefabName": "Map0",
+    "type": "Npc",
+    "desc": "世界地图"
+  },
+  {
+    "id": 1,
+    "name": "拉多镇",
+    "prefabName": "Map1",
+    "type": "Npc",
+    "desc": "一个小镇"
+  },
+  {
+    "id": 2,
+    "name": "主角楼下",
+    "prefabName": "Map2",
+    "type": "Npc",
+    "desc": "主角楼下"
+  },
+  {
+    "id": 3,
+    "name": "家",
+    "prefabName": "Map3",
+    "type": "Npc",
+    "desc": "家的味道"
+  },
+  {
+    "id": 4,
+    "name": "仓库",
+    "prefabName": "Map4",
+    "type": "Npc",
+    "desc": "自家仓库"
+  },
+  {
+    "id": 5,
+    "name": "战斗坦克5号",
+    "prefabName": "Map5",
+    "type": "Npc",
+    "desc": "战斗坦克"
+  },
+  {
+    "id": 6,
+    "name": "战斗坦克6号",
+    "prefabName": "Map6",
+    "type": "Npc",
+    "desc": "战斗坦克"
+  },
+  {
+    "id": 7,
+    "name": "战斗坦克7号",
+    "prefabName": "Map7",
+    "type": "Npc",
+    "desc": "战斗坦克"
+  },
+  {
+    "id": 8,
+    "name": "战斗坦克8号",
+    "prefabName": "Map8",
+    "type": "Npc",
+    "desc": "战斗坦克"
+  },
+  {
+    "id": 9,
+    "name": "战斗坦克9号",
+    "prefabName": "Map9",
+    "type": "Npc",
+    "desc": "战斗坦克"
+  },
+  {
+    "id": 10,
+    "name": "战斗坦克10号",
+    "prefabName": "Map10",
+    "type": "Npc",
+    "desc": "战斗坦克"
+  },
+  {
+    "id": 11,
+    "name": "战斗坦克11号",
+    "prefabName": "Map11",
+    "type": "Npc",
+    "desc": "战斗坦克"
+  },
+  {
+    "id": 12,
+    "name": "终极坦克12号",
+    "prefabName": "Map12",
+    "type": "Npc",
+    "desc": "战斗坦克"
+  }
+]

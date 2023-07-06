@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "梦白",
+    "gold": 0,
+    "map": 2,
+    "gameId": 1,
+    "gameNew": true
+  },
+  {
+    "id": 2,
+    "name": "梦白",
+    "gold": 0,
+    "map": 2,
+    "gameId": 2,
+    "gameNew": true
+  },
+  {
+    "id": 3,
+    "name": "梦白",
+    "gold": 0,
+    "map": 2,
+    "gameId": 3,
+    "gameNew": true
+  },
+  {
+    "id": 4,
+    "name": "梦白",
+    "gold": 0,
+    "map": 2,
+    "gameId": 4,
+    "gameNew": true
+  },
+  {
+    "id": 5,
+    "name": "梦白",
+    "gold": 0,
+    "map": 2,
+    "gameId": 5,
+    "gameNew": true
+  },
+  {
+    "id": 6,
+    "name": "梦白",
+    "gold": 0,
+    "map": 2,
+    "gameId": 6,
+    "gameNew": true
+  }
+]

@@ -1,0 +1,186 @@
+[
+  {
+    "id": 1,
+    "plotId": "1",
+    "nextPlotId": 2,
+    "npcId": 1,
+    "content": "MM，什么？你说你想成为超级勇士？\n",
+    "time": 0.05
+  },
+  {
+    "id": 2,
+    "plotId": "1",
+    "nextPlotId": 3,
+    "npcId": 1,
+    "content": "还没放弃这种无聊的追求，MM！",
+    "time": 0.05
+  },
+  {
+    "id": 3,
+    "plotId": "1",
+    "nextPlotId": 4,
+    "npcId": 2,
+    "content": "爸爸，不要发这样大的火？",
+    "time": 0.05
+  },
+  {
+    "id": 4,
+    "plotId": "1",
+    "nextPlotId": 5,
+    "npcId": 1,
+    "content": "你住嘴！",
+    "time": 0.05
+  },
+  {
+    "id": 5,
+    "plotId": "1",
+    "nextPlotId": 6,
+    "npcId": 1,
+    "content": "人应该老老实实地生活，这才是主要的。",
+    "time": 0.05
+  },
+  {
+    "id": 6,
+    "plotId": "1",
+    "nextPlotId": 7,
+    "npcId": 1,
+    "content": "说过多少次了？你还不懂？",
+    "time": 0.05
+  },
+  {
+    "id": 7,
+    "plotId": "1",
+    "nextPlotId": 8,
+    "npcId": 1,
+    "content": "这个笨家伙！",
+    "time": 0.05
+  },
+  {
+    "id": 8,
+    "plotId": "1",
+    "nextPlotId": 9,
+    "npcId": 1,
+    "content": "像你这样的家伙，今天就从家里里给出去！",
+    "time": 0.05
+  },
+  {
+    "id": 9,
+    "plotId": "1",
+    "nextPlotId": 10,
+    "npcId": 1,
+    "content": "让外面的冷风好好吹吹你那发晕的脑袋吧！",
+    "time": 0.05
+  },
+  {
+    "id": 10,
+    "plotId": "1",
+    "nextPlotId": 11,
+    "npcId": 1,
+    "content": "快走吧！去哪儿都行！",
+    "time": 0.05
+  },
+  {
+    "id": 11,
+    "plotId": "1",
+    "nextPlotId": -1,
+    "npcId": 3,
+    "content": "哈哈哈！怎么了，小家伙！淘气了，又被家里给赶出来了！",
+    "time": 0.05
+  },
+  {
+    "id": 12,
+    "plotId": "1",
+    "nextPlotId": 13,
+    "npcId": 2,
+    "content": "MM,你终于回来了",
+    "time": 0.05
+  },
+  {
+    "id": 13,
+    "plotId": "1",
+    "nextPlotId": 14,
+    "npcId": 2,
+    "content": "累了吧？休息一会吧！*是*否",
+    "time": 0.05
+  },
+  {
+    "id": 14,
+    "plotId": "1",
+    "nextPlotId": -1,
+    "npcId": 2,
+    "content": "加油！MM，坚持住！",
+    "time": 0.05
+  },
+  {
+    "id": 15,
+    "plotId": "1",
+    "nextPlotId": 16,
+    "npcId": 1,
+    "content": "欢迎来到商店?你需要什么？*是*离开",
+    "time": 0.05
+  },
+  {
+    "id": 16,
+    "plotId": "1",
+    "nextPlotId": 17,
+    "npcId": 1,
+    "content": "我看看！",
+    "time": 0.05
+  },
+  {
+    "id": 17,
+    "plotId": "1",
+    "nextPlotId": 18,
+    "npcId": 1,
+    "content": "我现在不需要才，谢谢！",
+    "time": 0.05
+  },
+  {
+    "id": 18,
+    "plotId": "1",
+    "nextPlotId": 19,
+    "npcId": 1,
+    "content": "人应该老老实实地生活，这才是主要的。",
+    "time": 0.05
+  },
+  {
+    "id": 19,
+    "plotId": "1",
+    "nextPlotId": 20,
+    "npcId": 1,
+    "content": "人应该老老实实地生活，这才是主要的。",
+    "time": 0.05
+  },
+  {
+    "id": 20,
+    "plotId": "1",
+    "nextPlotId": 21,
+    "npcId": 1,
+    "content": "人应该老老实实地生活，这才是主要的。",
+    "time": 0.05
+  },
+  {
+    "id": 21,
+    "plotId": "1",
+    "nextPlotId": 22,
+    "npcId": 1,
+    "content": "人应该老老实实地生活，这才是主要的。",
+    "time": 0.05
+  },
+  {
+    "id": 22,
+    "plotId": "1",
+    "nextPlotId": 23,
+    "npcId": 1,
+    "content": "人应该老老实实地生活，这才是主要的。",
+    "time": 0.05
+  },
+  {
+    "id": 23,
+    "plotId": "1",
+    "nextPlotId": -1,
+    "npcId": 1,
+    "content": "人应该老老实实地生活，这才是主要的。",
+    "time": 0.05
+  }
+]
