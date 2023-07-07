@@ -1,0 +1,1865 @@
+{
+    "FileVersion": "1.4.17",
+    "EnableAddressable": true,
+    "LocationToLower": false,
+    "IncludeAssetGUID": false,
+    "OutputNameStyle": 1,
+    "PackageName": "DefaultPackage",
+    "PackageVersion": "2023-07-07-860",
+    "AssetList": [
+        {
+            "Address": "Assembly-CSharp.dll",
+            "AssetPath": "Assets/DownLoad/Code/Assembly-CSharp.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 0,
+            "DependIDs": []
+        },
+        {
+            "Address": "mscorlib.dll",
+            "AssetPath": "Assets/DownLoad/Code/mscorlib.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 1,
+            "DependIDs": []
+        },
+        {
+            "Address": "System.Core.dll",
+            "AssetPath": "Assets/DownLoad/Code/System.Core.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 2,
+            "DependIDs": []
+        },
+        {
+            "Address": "System.dll",
+            "AssetPath": "Assets/DownLoad/Code/System.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 3,
+            "DependIDs": []
+        },
+        {
+            "Address": "UniTask.dll",
+            "AssetPath": "Assets/DownLoad/Code/UniTask.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 4,
+            "DependIDs": []
+        },
+        {
+            "Address": "Battle",
+            "AssetPath": "Assets/DownLoad/Scene/Battle.unity",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 5,
+            "DependIDs": []
+        },
+        {
+            "Address": "Main",
+            "AssetPath": "Assets/DownLoad/Scene/Main.unity",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 5,
+            "DependIDs": []
+        },
+        {
+            "Address": "Start",
+            "AssetPath": "Assets/DownLoad/Scene/Start.unity",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 5,
+            "DependIDs": []
+        },
+        {
+            "Address": "Town",
+            "AssetPath": "Assets/DownLoad/Scene/Town.unity",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 5,
+            "DependIDs": []
+        },
+        {
+            "Address": "World",
+            "AssetPath": "Assets/DownLoad/Scene/World.unity",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 5,
+            "DependIDs": [
+                25
+            ]
+        },
+        {
+            "Address": "BarItem",
+            "AssetPath": "Assets/DownLoad/Prefab/Common/BarItem.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 6,
+            "DependIDs": [
+                26,
+                27
+            ]
+        },
+        {
+            "Address": "BattleEnemyItem",
+            "AssetPath": "Assets/DownLoad/Prefab/Common/BattleEnemyItem.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 6,
+            "DependIDs": [
+                12,
+                26,
+                27
+            ]
+        },
+        {
+            "Address": "BattlePlayerItem",
+            "AssetPath": "Assets/DownLoad/Prefab/Common/BattlePlayerItem.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 6,
+            "DependIDs": [
+                12,
+                26,
+                27
+            ]
+        },
+        {
+            "Address": "BattlePropItem",
+            "AssetPath": "Assets/DownLoad/Prefab/Common/BattlePropItem.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 6,
+            "DependIDs": [
+                12,
+                27,
+                26
+            ]
+        },
+        {
+            "Address": "BattleRoleItem",
+            "AssetPath": "Assets/DownLoad/Prefab/Common/BattleRoleItem.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 6,
+            "DependIDs": [
+                26,
+                27
+            ]
+        },
+        {
+            "Address": "BattleSkillItem",
+            "AssetPath": "Assets/DownLoad/Prefab/Common/BattleSkillItem.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 6,
+            "DependIDs": [
+                12,
+                27,
+                26
+            ]
+        },
+        {
+            "Address": "BattleTankItem",
+            "AssetPath": "Assets/DownLoad/Prefab/Common/BattleTankItem.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 6,
+            "DependIDs": [
+                26,
+                27
+            ]
+        },
+        {
+            "Address": "Canvas",
+            "AssetPath": "Assets/DownLoad/Prefab/Common/Canvas.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 6,
+            "DependIDs": []
+        },
+        {
+            "Address": "DayPanel",
+            "AssetPath": "Assets/DownLoad/Prefab/Common/DayPanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 6,
+            "DependIDs": [
+                26
+            ]
+        },
+        {
+            "Address": "DialogueItem",
+            "AssetPath": "Assets/DownLoad/Prefab/Common/DialogueItem.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 6,
+            "DependIDs": [
+                26,
+                27
+            ]
+        },
+        {
+            "Address": "EquipBtn",
+            "AssetPath": "Assets/DownLoad/Prefab/Common/EquipBtn.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 6,
+            "DependIDs": [
+                12,
+                26,
+                27
+            ]
+        },
+        {
+            "Address": "EquipItem",
+            "AssetPath": "Assets/DownLoad/Prefab/Common/EquipItem.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 6,
+            "DependIDs": [
+                26,
+                27
+            ]
+        },
+        {
+            "Address": "EquipRoleItem",
+            "AssetPath": "Assets/DownLoad/Prefab/Common/EquipRoleItem.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 6,
+            "DependIDs": [
+                27,
+                26
+            ]
+        },
+        {
+            "Address": "EventSystem",
+            "AssetPath": "Assets/DownLoad/Prefab/Common/EventSystem.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 6,
+            "DependIDs": []
+        },
+        {
+            "Address": "MenuItem",
+            "AssetPath": "Assets/DownLoad/Prefab/Common/MenuItem.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 6,
+            "DependIDs": [
+                12,
+                27,
+                26
+            ]
+        },
+        {
+            "Address": "PlayerIDItem",
+            "AssetPath": "Assets/DownLoad/Prefab/Common/PlayerIDItem.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 6,
+            "DependIDs": [
+                27,
+                26
+            ]
+        },
+        {
+            "Address": "PropItem",
+            "AssetPath": "Assets/DownLoad/Prefab/Common/PropItem.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 6,
+            "DependIDs": [
+                27,
+                25,
+                26
+            ]
+        },
+        {
+            "Address": "PropMenu",
+            "AssetPath": "Assets/DownLoad/Prefab/Common/PropMenu.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 6,
+            "DependIDs": [
+                25,
+                26,
+                27
+            ]
+        },
+        {
+            "Address": "RoleItem",
+            "AssetPath": "Assets/DownLoad/Prefab/Common/RoleItem.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 6,
+            "DependIDs": [
+                26,
+                27
+            ]
+        },
+        {
+            "Address": "SaveItem",
+            "AssetPath": "Assets/DownLoad/Prefab/Common/SaveItem.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 6,
+            "DependIDs": [
+                26,
+                27
+            ]
+        },
+        {
+            "Address": "Select",
+            "AssetPath": "Assets/DownLoad/Prefab/Common/Select.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 6,
+            "DependIDs": [
+                26
+            ]
+        },
+        {
+            "Address": "SkillItem",
+            "AssetPath": "Assets/DownLoad/Prefab/Common/SkillItem.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 6,
+            "DependIDs": [
+                27,
+                26,
+                25
+            ]
+        },
+        {
+            "Address": "TankItem",
+            "AssetPath": "Assets/DownLoad/Prefab/Common/TankItem.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 6,
+            "DependIDs": [
+                26,
+                27
+            ]
+        },
+        {
+            "Address": "TaskItem",
+            "AssetPath": "Assets/DownLoad/Prefab/Common/TaskItem.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 6,
+            "DependIDs": [
+                12,
+                27,
+                26
+            ]
+        },
+        {
+            "Address": "TopMenu",
+            "AssetPath": "Assets/DownLoad/Prefab/Common/TopMenu.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 6,
+            "DependIDs": [
+                12,
+                26,
+                27
+            ]
+        },
+        {
+            "Address": "UDMenu",
+            "AssetPath": "Assets/DownLoad/Prefab/Common/UDMenu.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 6,
+            "DependIDs": [
+                12,
+                26,
+                27
+            ]
+        },
+        {
+            "Address": "UpOrDownPanel",
+            "AssetPath": "Assets/DownLoad/Prefab/Common/UpOrDownPanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 6,
+            "DependIDs": [
+                12,
+                26,
+                27
+            ]
+        },
+        {
+            "Address": "baozha1",
+            "AssetPath": "Assets/DownLoad/Prefab/Effect/baozha1.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 7,
+            "DependIDs": []
+        },
+        {
+            "Address": "damage",
+            "AssetPath": "Assets/DownLoad/Prefab/Effect/damage.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 7,
+            "DependIDs": []
+        },
+        {
+            "Address": "huifu1",
+            "AssetPath": "Assets/DownLoad/Prefab/Effect/huifu1.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 7,
+            "DependIDs": []
+        },
+        {
+            "Address": "zidan1",
+            "AssetPath": "Assets/DownLoad/Prefab/Effect/zidan1.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 7,
+            "DependIDs": []
+        },
+        {
+            "Address": "zidan2",
+            "AssetPath": "Assets/DownLoad/Prefab/Effect/zidan2.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 7,
+            "DependIDs": []
+        },
+        {
+            "Address": "zidan3",
+            "AssetPath": "Assets/DownLoad/Prefab/Effect/zidan3.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 7,
+            "DependIDs": []
+        },
+        {
+            "Address": "zidan4",
+            "AssetPath": "Assets/DownLoad/Prefab/Effect/zidan4.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 7,
+            "DependIDs": []
+        },
+        {
+            "Address": "zidan5",
+            "AssetPath": "Assets/DownLoad/Prefab/Effect/zidan5.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 7,
+            "DependIDs": []
+        },
+        {
+            "Address": "zidan6",
+            "AssetPath": "Assets/DownLoad/Prefab/Effect/zidan6.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 7,
+            "DependIDs": []
+        },
+        {
+            "Address": "zidan7",
+            "AssetPath": "Assets/DownLoad/Prefab/Effect/zidan7.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 7,
+            "DependIDs": []
+        },
+        {
+            "Address": "BattlePanel",
+            "AssetPath": "Assets/DownLoad/Prefab/Panel/BattlePanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 8,
+            "DependIDs": [
+                12,
+                6,
+                26,
+                27
+            ]
+        },
+        {
+            "Address": "CreatePanel",
+            "AssetPath": "Assets/DownLoad/Prefab/Panel/CreatePanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 8,
+            "DependIDs": [
+                27,
+                26
+            ]
+        },
+        {
+            "Address": "DialoguePanel",
+            "AssetPath": "Assets/DownLoad/Prefab/Panel/DialoguePanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 8,
+            "DependIDs": [
+                6,
+                27,
+                26
+            ]
+        },
+        {
+            "Address": "EquipPanel",
+            "AssetPath": "Assets/DownLoad/Prefab/Panel/EquipPanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 8,
+            "DependIDs": [
+                6,
+                12,
+                27,
+                26
+            ]
+        },
+        {
+            "Address": "LoadPanel",
+            "AssetPath": "Assets/DownLoad/Prefab/Panel/LoadPanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 8,
+            "DependIDs": [
+                27,
+                26
+            ]
+        },
+        {
+            "Address": "LoginPanel",
+            "AssetPath": "Assets/DownLoad/Prefab/Panel/LoginPanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 8,
+            "DependIDs": []
+        },
+        {
+            "Address": "MainPanel",
+            "AssetPath": "Assets/DownLoad/Prefab/Panel/MainPanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 8,
+            "DependIDs": [
+                6,
+                12,
+                26,
+                27
+            ]
+        },
+        {
+            "Address": "PropPanel",
+            "AssetPath": "Assets/DownLoad/Prefab/Panel/PropPanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 8,
+            "DependIDs": [
+                12,
+                6,
+                26,
+                27,
+                25
+            ]
+        },
+        {
+            "Address": "PropTipPanel",
+            "AssetPath": "Assets/DownLoad/Prefab/Panel/PropTipPanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 8,
+            "DependIDs": [
+                12,
+                26
+            ]
+        },
+        {
+            "Address": "ReadPanel",
+            "AssetPath": "Assets/DownLoad/Prefab/Panel/ReadPanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 8,
+            "DependIDs": [
+                26,
+                6,
+                27
+            ]
+        },
+        {
+            "Address": "RolePanel",
+            "AssetPath": "Assets/DownLoad/Prefab/Panel/RolePanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 8,
+            "DependIDs": []
+        },
+        {
+            "Address": "SavePanel",
+            "AssetPath": "Assets/DownLoad/Prefab/Panel/SavePanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 8,
+            "DependIDs": [
+                12,
+                6,
+                27,
+                26
+            ]
+        },
+        {
+            "Address": "SetPanel",
+            "AssetPath": "Assets/DownLoad/Prefab/Panel/SetPanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 8,
+            "DependIDs": [
+                12,
+                6,
+                27,
+                26
+            ]
+        },
+        {
+            "Address": "ShopPanel",
+            "AssetPath": "Assets/DownLoad/Prefab/Panel/ShopPanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 8,
+            "DependIDs": [
+                12,
+                27,
+                26
+            ]
+        },
+        {
+            "Address": "SkillPanel",
+            "AssetPath": "Assets/DownLoad/Prefab/Panel/SkillPanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 8,
+            "DependIDs": [
+                12,
+                6,
+                26,
+                27,
+                25
+            ]
+        },
+        {
+            "Address": "StartPanel",
+            "AssetPath": "Assets/DownLoad/Prefab/Panel/StartPanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 8,
+            "DependIDs": [
+                26,
+                27
+            ]
+        },
+        {
+            "Address": "StatePanel",
+            "AssetPath": "Assets/DownLoad/Prefab/Panel/StatePanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 8,
+            "DependIDs": [
+                12,
+                26,
+                6,
+                27
+            ]
+        },
+        {
+            "Address": "TaskPanel",
+            "AssetPath": "Assets/DownLoad/Prefab/Panel/TaskPanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 8,
+            "DependIDs": [
+                6,
+                12,
+                26,
+                27
+            ]
+        },
+        {
+            "Address": "TipPanel",
+            "AssetPath": "Assets/DownLoad/Prefab/Panel/TipPanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 8,
+            "DependIDs": [
+                26,
+                27
+            ]
+        },
+        {
+            "Address": "UseTipPanel",
+            "AssetPath": "Assets/DownLoad/Prefab/Panel/UseTipPanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 8,
+            "DependIDs": [
+                12,
+                27,
+                26
+            ]
+        },
+        {
+            "Address": "ViewPanel",
+            "AssetPath": "Assets/DownLoad/Prefab/Panel/ViewPanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 8,
+            "DependIDs": []
+        },
+        {
+            "Address": "Enemy1",
+            "AssetPath": "Assets/DownLoad/Prefab/Role/Enemy1.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 9,
+            "DependIDs": [
+                12
+            ]
+        },
+        {
+            "Address": "Enemy2",
+            "AssetPath": "Assets/DownLoad/Prefab/Role/Enemy2.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 9,
+            "DependIDs": [
+                12
+            ]
+        },
+        {
+            "Address": "Enemy3",
+            "AssetPath": "Assets/DownLoad/Prefab/Role/Enemy3.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 9,
+            "DependIDs": [
+                12
+            ]
+        },
+        {
+            "Address": "Enemy4",
+            "AssetPath": "Assets/DownLoad/Prefab/Role/Enemy4.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 9,
+            "DependIDs": [
+                12
+            ]
+        },
+        {
+            "Address": "Npc",
+            "AssetPath": "Assets/DownLoad/Prefab/Role/Npc.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 9,
+            "DependIDs": [
+                12,
+                28,
+                29,
+                25
+            ]
+        },
+        {
+            "Address": "Npc1",
+            "AssetPath": "Assets/DownLoad/Prefab/Role/Npc1.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 9,
+            "DependIDs": [
+                12,
+                28,
+                29,
+                25
+            ]
+        },
+        {
+            "Address": "Npc2",
+            "AssetPath": "Assets/DownLoad/Prefab/Role/Npc2.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 9,
+            "DependIDs": [
+                29,
+                28,
+                12,
+                25
+            ]
+        },
+        {
+            "Address": "Npc3",
+            "AssetPath": "Assets/DownLoad/Prefab/Role/Npc3.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 9,
+            "DependIDs": [
+                28,
+                12,
+                25
+            ]
+        },
+        {
+            "Address": "Role0",
+            "AssetPath": "Assets/DownLoad/Prefab/Role/Role0.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 9,
+            "DependIDs": [
+                28,
+                12
+            ]
+        },
+        {
+            "Address": "Role1",
+            "AssetPath": "Assets/DownLoad/Prefab/Role/Role1.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 9,
+            "DependIDs": [
+                28,
+                12
+            ]
+        },
+        {
+            "Address": "Role2",
+            "AssetPath": "Assets/DownLoad/Prefab/Role/Role2.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 9,
+            "DependIDs": [
+                12,
+                28
+            ]
+        },
+        {
+            "Address": "Role3",
+            "AssetPath": "Assets/DownLoad/Prefab/Role/Role3.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 9,
+            "DependIDs": [
+                28,
+                12
+            ]
+        },
+        {
+            "Address": "Role4",
+            "AssetPath": "Assets/DownLoad/Prefab/Role/Role4.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 9,
+            "DependIDs": [
+                28,
+                12
+            ]
+        },
+        {
+            "Address": "Tank",
+            "AssetPath": "Assets/DownLoad/Prefab/Role/Tank.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 9,
+            "DependIDs": [
+                28,
+                12
+            ]
+        },
+        {
+            "Address": "Tank1",
+            "AssetPath": "Assets/DownLoad/Prefab/Role/Tank1.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 9,
+            "DependIDs": [
+                12,
+                28
+            ]
+        },
+        {
+            "Address": "Tank2",
+            "AssetPath": "Assets/DownLoad/Prefab/Role/Tank2.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 9,
+            "DependIDs": [
+                12,
+                28
+            ]
+        },
+        {
+            "Address": "Tank3",
+            "AssetPath": "Assets/DownLoad/Prefab/Role/Tank3.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 9,
+            "DependIDs": [
+                12,
+                28
+            ]
+        },
+        {
+            "Address": "Tank4",
+            "AssetPath": "Assets/DownLoad/Prefab/Role/Tank4.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 9,
+            "DependIDs": [
+                12,
+                28
+            ]
+        },
+        {
+            "Address": "GameTimeline",
+            "AssetPath": "Assets/DownLoad/Timeline/GameTimeline.playable",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 10,
+            "DependIDs": []
+        },
+        {
+            "Address": "Map0",
+            "AssetPath": "Assets/DownLoad/Prefab/Map/Map0.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 11,
+            "DependIDs": [
+                28,
+                29,
+                12,
+                25,
+                9,
+                30
+            ]
+        },
+        {
+            "Address": "Map1",
+            "AssetPath": "Assets/DownLoad/Prefab/Map/Map1.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 11,
+            "DependIDs": [
+                28,
+                29,
+                25,
+                9,
+                12
+            ]
+        },
+        {
+            "Address": "Map2",
+            "AssetPath": "Assets/DownLoad/Prefab/Map/Map2.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 11,
+            "DependIDs": [
+                29,
+                28,
+                12,
+                25,
+                9,
+                30
+            ]
+        },
+        {
+            "Address": "Map3",
+            "AssetPath": "Assets/DownLoad/Prefab/Map/Map3.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 11,
+            "DependIDs": [
+                29,
+                28,
+                12,
+                25,
+                9
+            ]
+        },
+        {
+            "Address": "Map4",
+            "AssetPath": "Assets/DownLoad/Prefab/Map/Map4.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DownLoads"
+            ],
+            "BundleID": 11,
+            "DependIDs": []
+        },
+        {
+            "Address": "UIEneny",
+            "AssetPath": "Assets/DownLoad/UI/UISprite/UIEneny.png",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UIs"
+            ],
+            "BundleID": 12,
+            "DependIDs": []
+        },
+        {
+            "Address": "UINpc1",
+            "AssetPath": "Assets/DownLoad/UI/UISprite/UINpc1.png",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UIs"
+            ],
+            "BundleID": 12,
+            "DependIDs": []
+        },
+        {
+            "Address": "UINpc2",
+            "AssetPath": "Assets/DownLoad/UI/UISprite/UINpc2.png",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UIs"
+            ],
+            "BundleID": 12,
+            "DependIDs": []
+        },
+        {
+            "Address": "UINpc3",
+            "AssetPath": "Assets/DownLoad/UI/UISprite/UINpc3.png",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UIs"
+            ],
+            "BundleID": 12,
+            "DependIDs": []
+        },
+        {
+            "Address": "UINpcs",
+            "AssetPath": "Assets/DownLoad/UI/UISprite/UINpcs.png",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UIs"
+            ],
+            "BundleID": 12,
+            "DependIDs": []
+        },
+        {
+            "Address": "UIPorpIcon",
+            "AssetPath": "Assets/DownLoad/UI/UISprite/UIPorpIcon.png",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UIs"
+            ],
+            "BundleID": 12,
+            "DependIDs": []
+        },
+        {
+            "Address": "UIRole",
+            "AssetPath": "Assets/DownLoad/UI/UISprite/UIRole.png",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UIs"
+            ],
+            "BundleID": 12,
+            "DependIDs": []
+        },
+        {
+            "Address": "UIRole0",
+            "AssetPath": "Assets/DownLoad/UI/UISprite/UIRole0.png",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UIs"
+            ],
+            "BundleID": 12,
+            "DependIDs": []
+        },
+        {
+            "Address": "UIRole1",
+            "AssetPath": "Assets/DownLoad/UI/UISprite/UIRole1.png",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UIs"
+            ],
+            "BundleID": 12,
+            "DependIDs": []
+        },
+        {
+            "Address": "UIRole2",
+            "AssetPath": "Assets/DownLoad/UI/UISprite/UIRole2.png",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UIs"
+            ],
+            "BundleID": 12,
+            "DependIDs": []
+        },
+        {
+            "Address": "UIRole3",
+            "AssetPath": "Assets/DownLoad/UI/UISprite/UIRole3.png",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UIs"
+            ],
+            "BundleID": 12,
+            "DependIDs": []
+        },
+        {
+            "Address": "UIRole4",
+            "AssetPath": "Assets/DownLoad/UI/UISprite/UIRole4.png",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UIs"
+            ],
+            "BundleID": 12,
+            "DependIDs": []
+        },
+        {
+            "Address": "UIRoleHead",
+            "AssetPath": "Assets/DownLoad/UI/UISprite/UIRoleHead.png",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UIs"
+            ],
+            "BundleID": 12,
+            "DependIDs": []
+        },
+        {
+            "Address": "UIRoleHead1",
+            "AssetPath": "Assets/DownLoad/UI/UISprite/UIRoleHead1.png",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UIs"
+            ],
+            "BundleID": 12,
+            "DependIDs": []
+        },
+        {
+            "Address": "UITank",
+            "AssetPath": "Assets/DownLoad/UI/UISprite/UITank.png",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UIs"
+            ],
+            "BundleID": 12,
+            "DependIDs": []
+        },
+        {
+            "Address": "UITankHead",
+            "AssetPath": "Assets/DownLoad/UI/UISprite/UITankHead.png",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UIs"
+            ],
+            "BundleID": 12,
+            "DependIDs": []
+        },
+        {
+            "Address": "Config_Dialogue",
+            "AssetPath": "Assets/DownLoad/Config/Dialogue.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Configs"
+            ],
+            "BundleID": 13,
+            "DependIDs": []
+        },
+        {
+            "Address": "Config_Enemy",
+            "AssetPath": "Assets/DownLoad/Config/Enemy.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Configs"
+            ],
+            "BundleID": 14,
+            "DependIDs": []
+        },
+        {
+            "Address": "Config_Lvl",
+            "AssetPath": "Assets/DownLoad/Config/Lvl.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Configs"
+            ],
+            "BundleID": 15,
+            "DependIDs": []
+        },
+        {
+            "Address": "Config_Map",
+            "AssetPath": "Assets/DownLoad/Config/Map.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Configs"
+            ],
+            "BundleID": 16,
+            "DependIDs": []
+        },
+        {
+            "Address": "Config_Menu",
+            "AssetPath": "Assets/DownLoad/Config/Menu.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Configs"
+            ],
+            "BundleID": 17,
+            "DependIDs": []
+        },
+        {
+            "Address": "Config_NPC",
+            "AssetPath": "Assets/DownLoad/Config/NPC.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Configs"
+            ],
+            "BundleID": 18,
+            "DependIDs": []
+        },
+        {
+            "Address": "Config_Player",
+            "AssetPath": "Assets/DownLoad/Config/Player.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Configs"
+            ],
+            "BundleID": 19,
+            "DependIDs": []
+        },
+        {
+            "Address": "Config_Prop",
+            "AssetPath": "Assets/DownLoad/Config/Prop.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Configs"
+            ],
+            "BundleID": 20,
+            "DependIDs": []
+        },
+        {
+            "Address": "Config_Role",
+            "AssetPath": "Assets/DownLoad/Config/Role.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Configs"
+            ],
+            "BundleID": 21,
+            "DependIDs": []
+        },
+        {
+            "Address": "Config_Skill",
+            "AssetPath": "Assets/DownLoad/Config/Skill.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Configs"
+            ],
+            "BundleID": 22,
+            "DependIDs": []
+        },
+        {
+            "Address": "Config_Tank",
+            "AssetPath": "Assets/DownLoad/Config/Tank.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Configs"
+            ],
+            "BundleID": 23,
+            "DependIDs": []
+        },
+        {
+            "Address": "Config_Task",
+            "AssetPath": "Assets/DownLoad/Config/Task.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Configs"
+            ],
+            "BundleID": 24,
+            "DependIDs": []
+        }
+    ],
+    "BundleList": [
+        {
+            "BundleName": "assets_download_code_assembly-csharp_dll_bytes.rawfile",
+            "FileHash": "7ed5a9151465464a32010035ca551a25",
+            "FileCRC": "bda0c035",
+            "FileSize": 227328,
+            "IsRawFile": true,
+            "LoadMethod": 0,
+            "Tags": [
+                "DownLoads"
+            ],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_download_code_mscorlib_dll_bytes.rawfile",
+            "FileHash": "fa56cf080ea3f4f42b3c6c169910f70c",
+            "FileCRC": "bc1bfab4",
+            "FileSize": 2325504,
+            "IsRawFile": true,
+            "LoadMethod": 0,
+            "Tags": [
+                "DownLoads"
+            ],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_download_code_system_core_dll_bytes.rawfile",
+            "FileHash": "fffa07b8c41eb162e321230c048a282e",
+            "FileCRC": "e08738bb",
+            "FileSize": 418816,
+            "IsRawFile": true,
+            "LoadMethod": 0,
+            "Tags": [
+                "DownLoads"
+            ],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_download_code_system_dll_bytes.rawfile",
+            "FileHash": "fd8d8f3387c4278c5bb70d05c1921cb1",
+            "FileCRC": "e8a276a5",
+            "FileSize": 663552,
+            "IsRawFile": true,
+            "LoadMethod": 0,
+            "Tags": [
+                "DownLoads"
+            ],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_download_code_unitask_dll_bytes.rawfile",
+            "FileHash": "94f8b9b52b5abb6f56eb47204d784f9b",
+            "FileCRC": "d91bfa6f",
+            "FileSize": 341504,
+            "IsRawFile": true,
+            "LoadMethod": 0,
+            "Tags": [
+                "DownLoads"
+            ],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_download_scene.bundle",
+            "FileHash": "57d414fdf3340b49f9ecc42b872a92e3",
+            "FileCRC": "a3f60eb6",
+            "FileSize": 190924,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "DownLoads"
+            ],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_download_prefab_common.bundle",
+            "FileHash": "26080939eea9345fa020213122f335ff",
+            "FileCRC": "a99e3bf5",
+            "FileSize": 45174,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "DownLoads"
+            ],
+            "ReferenceIDs": [
+                8
+            ]
+        },
+        {
+            "BundleName": "assets_download_prefab_effect.bundle",
+            "FileHash": "50a5ae7d121eb7f385b27c6c63f6540c",
+            "FileCRC": "aa97222e",
+            "FileSize": 695664,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "DownLoads"
+            ],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_download_prefab_panel.bundle",
+            "FileHash": "08f1b179f89e4149b879622d1755bae6",
+            "FileCRC": "46fd959d",
+            "FileSize": 4406673,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "DownLoads"
+            ],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_download_prefab_role.bundle",
+            "FileHash": "b5502b4e09e1f12d46459d45c9367aea",
+            "FileCRC": "d04a2b7f",
+            "FileSize": 19091,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "DownLoads"
+            ],
+            "ReferenceIDs": [
+                11
+            ]
+        },
+        {
+            "BundleName": "assets_download_timeline.bundle",
+            "FileHash": "825009dee3ddd2dba93e5915ace9f94d",
+            "FileCRC": "79cc45d3",
+            "FileSize": 9115,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "DownLoads"
+            ],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_download_prefab_map.bundle",
+            "FileHash": "a3b0d688f9510896fd40457c16e092f3",
+            "FileCRC": "3b61a48e",
+            "FileSize": 1631021,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "DownLoads"
+            ],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_download_ui_uisprite.bundle",
+            "FileHash": "c0be57776f2a7df66e94293d9a48f8ae",
+            "FileCRC": "36b580d1",
+            "FileSize": 451925,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "UIs",
+                "DownLoads"
+            ],
+            "ReferenceIDs": [
+                6,
+                8,
+                9,
+                28,
+                29
+            ]
+        },
+        {
+            "BundleName": "assets_download_config_dialogue_bytes.rawfile",
+            "FileHash": "6274c77985732a8e349aa470765e700e",
+            "FileCRC": "4c6afa98",
+            "FileSize": 3808,
+            "IsRawFile": true,
+            "LoadMethod": 0,
+            "Tags": [
+                "Configs"
+            ],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_download_config_enemy_bytes.rawfile",
+            "FileHash": "13e46c3d9031179a399d90afbb54c522",
+            "FileCRC": "96a39946",
+            "FileSize": 45096,
+            "IsRawFile": true,
+            "LoadMethod": 0,
+            "Tags": [
+                "Configs"
+            ],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_download_config_lvl_bytes.rawfile",
+            "FileHash": "55d56b8957816863ddf4aff379723bce",
+            "FileCRC": "e1599e0f",
+            "FileSize": 14612,
+            "IsRawFile": true,
+            "LoadMethod": 0,
+            "Tags": [
+                "Configs"
+            ],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_download_config_map_bytes.rawfile",
+            "FileHash": "3e5ef93096145ba09e2c94fcbaca7b67",
+            "FileCRC": "06c0cb0d",
+            "FileSize": 1700,
+            "IsRawFile": true,
+            "LoadMethod": 0,
+            "Tags": [
+                "Configs"
+            ],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_download_config_menu_bytes.rawfile",
+            "FileHash": "7da15a011f9629d4d39a134b8e3aa33f",
+            "FileCRC": "41e42a05",
+            "FileSize": 3662,
+            "IsRawFile": true,
+            "LoadMethod": 0,
+            "Tags": [
+                "Configs"
+            ],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_download_config_npc_bytes.rawfile",
+            "FileHash": "8319cf6a1d70fb7f1db30c87a62163ff",
+            "FileCRC": "5d44b16e",
+            "FileSize": 2047,
+            "IsRawFile": true,
+            "LoadMethod": 0,
+            "Tags": [
+                "Configs"
+            ],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_download_config_player_bytes.rawfile",
+            "FileHash": "82a444857009f81be122332a96f4b65f",
+            "FileCRC": "c7792852",
+            "FileSize": 711,
+            "IsRawFile": true,
+            "LoadMethod": 0,
+            "Tags": [
+                "Configs"
+            ],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_download_config_prop_bytes.rawfile",
+            "FileHash": "a06e911d01cb7831d6988b19e7ecc507",
+            "FileCRC": "c87cbc22",
+            "FileSize": 64608,
+            "IsRawFile": true,
+            "LoadMethod": 0,
+            "Tags": [
+                "Configs"
+            ],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_download_config_role_bytes.rawfile",
+            "FileHash": "c8ed132f0657da06914b2f0988544576",
+            "FileCRC": "4f418d58",
+            "FileSize": 8704,
+            "IsRawFile": true,
+            "LoadMethod": 0,
+            "Tags": [
+                "Configs"
+            ],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_download_config_skill_bytes.rawfile",
+            "FileHash": "0da8fb90004f965932b7a5ed456ad4f9",
+            "FileCRC": "e0b3318f",
+            "FileSize": 3308,
+            "IsRawFile": true,
+            "LoadMethod": 0,
+            "Tags": [
+                "Configs"
+            ],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_download_config_tank_bytes.rawfile",
+            "FileHash": "329ce5254409fdd88f7d3fa3bc8bfd8a",
+            "FileCRC": "0e60ab7a",
+            "FileSize": 6249,
+            "IsRawFile": true,
+            "LoadMethod": 0,
+            "Tags": [
+                "Configs"
+            ],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_download_config_task_bytes.rawfile",
+            "FileHash": "ad703d59600e472f21a142e4736cc269",
+            "FileCRC": "45cd834b",
+            "FileSize": 2212,
+            "IsRawFile": true,
+            "LoadMethod": 0,
+            "Tags": [
+                "Configs"
+            ],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "share_assets_download_ui_uimap.bundle",
+            "FileHash": "bfa0887ddae1c4bd043c915360dfba63",
+            "FileCRC": "b351e50b",
+            "FileSize": 1328341,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "DownLoads"
+            ],
+            "ReferenceIDs": [
+                5,
+                6,
+                8,
+                9,
+                11
+            ]
+        },
+        {
+            "BundleName": "share_assets_download_ui_uipanel.bundle",
+            "FileHash": "7e44b60fc431223afc32f3b6171070fb",
+            "FileCRC": "917a137d",
+            "FileSize": 27994,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "DownLoads"
+            ],
+            "ReferenceIDs": [
+                6,
+                8
+            ]
+        },
+        {
+            "BundleName": "share_assets_download_font.bundle",
+            "FileHash": "8eae6a20a4bf8cc00d7d4816210c4e2c",
+            "FileCRC": "8a7e0536",
+            "FileSize": 8701414,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "DownLoads"
+            ],
+            "ReferenceIDs": [
+                6,
+                8
+            ]
+        },
+        {
+            "BundleName": "share_assets_download_animation_role.bundle",
+            "FileHash": "036635a26494d84c5dcd9dc85e0e6f63",
+            "FileCRC": "317437e3",
+            "FileSize": 10909,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "DownLoads"
+            ],
+            "ReferenceIDs": [
+                9,
+                29
+            ]
+        },
+        {
+            "BundleName": "share_assets_download_animation_npc.bundle",
+            "FileHash": "08141dda864e064d80531b1a8edb9bc4",
+            "FileCRC": "333913ef",
+            "FileSize": 7391,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "DownLoads"
+            ],
+            "ReferenceIDs": [
+                9,
+                11
+            ]
+        },
+        {
+            "BundleName": "unityshaders.bundle",
+            "FileHash": "368c82119d06c90dd75773519dd69e4d",
+            "FileCRC": "1ad012cd",
+            "FileSize": 28147,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [
+                "DownLoads"
+            ],
+            "ReferenceIDs": [
+                11
+            ]
+        }
+    ]
+}
